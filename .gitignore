@@ -144,6 +144,8 @@ $RECYCLE.BIN/
 
 # 이하는 ts 추가----------------------------------------------------------------------
 
-# poetry 가상환경 생성으로 만들어진 폴더들은 제외하고 장고 프로젝트는 추적
-venv/*
-!venv/orderbot_webpage_prj/
+# Pycharm
+.idea/
+
+# db
+venv/db.sqlite3s
