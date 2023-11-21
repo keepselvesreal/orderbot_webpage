@@ -146,6 +146,7 @@ $RECYCLE.BIN/
 
 # Pycharm
 .idea/
+venv/order/migrations/
 
 # db
 venv/db.sqlite3s
